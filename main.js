@@ -6,7 +6,7 @@ to_number="";
 
 function preload()
 {
-apple=loadImage("1515279001.png");
+apple=loadImage("apple.jpg");
 }
 
 var SpeechRecognition = window.webkitSpeechRecognition;
